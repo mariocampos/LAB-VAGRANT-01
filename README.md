@@ -127,5 +127,5 @@ simply run `vagrant up`.
 
 </code></pre>
 <blockquote>
-<p class="has-line-data" data-line-start="123" data-line-end="124">En “eth1” no muestra la IP que se asignó en la configuración.</p>
+<p class="has-line-data" data-line-start="123" data-line-end="124">En “eth1” nos muestra la IP que se asignó en la configuración.</p>
 </blockquote>
